@@ -10,11 +10,10 @@ Currently pursuing **B.Tech in Electronics & Communication**. I love building im
 
 ---
 
+
 <!-- Typing effect intro -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Krishana+Yadav+%F0%9F%91%8B;Engineer+%7C+Developer+%7C+Dream+Builder;Always+Learning+%7C+Always+Creating¢er=true&width=600&height=50&font=Fira+Code&pause=1000&color=CECECE" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Krishana+Yadav+%F0%9F%91%8B;Engineer+%7C+Developer+%7C+Dream+Builder;Always+Learning+%7C+Always+Creating&center=true&width=600&height=50&font=Fira+Code&pause=1000&color=CECECE" />
 </h1>
 
 <!-- Social Badges -->
