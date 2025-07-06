@@ -1,37 +1,39 @@
-## 👋 Hi there, I'm **Krishana Yadav!**
-
-A passionate **Engineer**, **Developer**, and **Maker of Meaningful Tech.**  
-
----
+# 👋Hi, I'm **Krishana Yadav**
 
 
-<!-- Typing effect intro -->
+
+
+
+A dedicated Engineer, Developer, and Creator of impactful technology solutions.
+##
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+I'm+Krishana+Yadav+%F0%9F%91%8B;Engineer+%7C+Developer+%7C+Dream+Builder;Always+Learning+%7C+Always+Creating&center=true&width=600&height=50&font=Fira+Code&pause=1000&color=CECECE" />
+  <img src="https://readme-typing-svg.demolab.com?font=Silkscreen&pause=1000&width=435&lines=Hi%2C+I'm+Krishana+Yadav+%F0%9F%91%8B;Engineer+%7C+Developer+%7C+Innovator;Lifelong+Learner+%7C+Tech+Enthusiast" />
 </h1>
 
 
+## 💻 Tech Stack & Tools
 
-
-## 🧠 Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> 
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
+  <strong>Languages:</strong><br>
+  <img src="https://skillicons.dev/icons?i=python,js,c,cpp" />
 </p>
 
----
-
-## 📚 Currently Learning
 <p align="left">
-  <img src="https://img.shields.io/badge/AI/ML-yellow?style=for-the-badge&logo=tensorflow" />
-  <img src="https://img.shields.io/badge/DSA-orange?style=for-the-badge&logo=codeforces" />
-  <img src="https://img.shields.io/badge/System%20Design-blue?style=for-the-badge&logo=visualstudiocode" />
+  <strong>Frontend & 3D Graphics:</strong><br>
+  <img src="https://skillicons.dev/icons?i=react,threejs,html,css" />
 </p>
+
+<p align="left">
+  <strong>Backend & AI/ML:</strong><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,tensorflow" />
+</p>
+
+<p align="left">
+  <strong>Creative, Version Control & Other Tools:</strong><br>
+  <img src="https://skillicons.dev/icons?i=blender,figma,git,github,docker,vscode" />
+</p>
+
 
 ---
 
@@ -43,25 +45,22 @@ A passionate **Engineer**, **Developer**, and **Maker of Meaningful Tech.**
 
 ---
 
-
 ## 🔧 What I'm Working On
 - ✍️ Solving problems on **LeetCode**, **Codeforces**, and **HackerRank**
-- 🌐 Building responsive apps with **React** and **Python**
+- 🌐 Building responsive applications with **React** and **Python**
 
 ---
 
 ## 📫 Connect With Me
 <p>
-  Feel free to reach out for collaborations, internships, or just a tech chat!
+  I welcome collaborations, internships, and tech discussions. Feel free to reach out!
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/krishana-yadav-5ab237258" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Krishana_Yadav-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://your-resume-link.com" target="_blank"> <!-- 👈 **REPLACE THIS again!** -->
-    <img src="https://img.shields.io/badge/Resume-PDF-orange?style=for-the-badge&logo=readthedocs" alt="Resume"/>
-  </a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ikrishanaa"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikrishanaa | LinkedIn" height="30" width="40" /></a>  
+  <a href="https://github.com/ikrishanaa"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ikrishanaa | GitHub" height="30" width="40" /></a>  
+  <a href="https://x.com/ikrishanaa"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ikrishanaa | Twitter" height="30" width="40" /></a>  
+  <a href="https://www.instagram.com/ikrishanaa/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikrishanaa | Instagram" height="30" width="40" /></a>
 </p>
 
 ---
