@@ -2,7 +2,7 @@ name: generate breakout svg
 on:
   schedule:
     - cron: "0 0 * * *"   # runs every day at midnight UTC
-  workflow_dispatch:       # lets you run it manually
+  workflow_dispatch:       #  you can run it manually
 
 jobs:
   generate-svg:
