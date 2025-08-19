@@ -45,6 +45,10 @@ A dedicated Engineer, Developer, and Creator of impactful technology solutions.
 
 ---
 
+
+
+
+
 ## 🔧 What I'm Working On
 - ✍️ Solving problems on **LeetCode**, **Codeforces**, and **HackerRank**
 - 🌐 Building responsive applications with **React** and **Python**
@@ -53,7 +57,7 @@ A dedicated Engineer, Developer, and Creator of impactful technology solutions.
 
 ## 📫 Connect With Me
 <p>
-  I welcome collaborations, internships, and tech discussions. Feel free to reach out!
+  I welcome collaborations and tech discussions. Feel free to reach out!
 </p>
 
 <p align="left">
@@ -64,5 +68,15 @@ A dedicated Engineer, Developer, and Creator of impactful technology solutions.
 </p>
 
 ---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
+    <img alt="Breakout Game" src="images/breakout-light.svg" />
+  </picture>
+</p>
+
+
 
 > _"Build something today that your future self will thank you for."_ ✨
