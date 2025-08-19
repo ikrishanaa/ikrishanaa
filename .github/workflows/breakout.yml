@@ -26,10 +26,19 @@ jobs:
           mv output/light.svg images/breakout-light.svg
           mv output/dark.svg images/breakout-dark.svg
 
-      - name: Commit and push SVGs
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
           git commit -m "chore: daily breakout update $(date)" || echo "No changes to commit"
+          git push
+
+      - name: Force dummy commit (always green square 🌱)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          date > .last_run  # overwrite timestamp file
+          git add .last_run
+          git commit -m "chore: keep streak alive $(date)"
           git push
