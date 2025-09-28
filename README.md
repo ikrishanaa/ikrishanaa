@@ -16,22 +16,22 @@ A dedicated Engineer, Developer, and Creator of impactful technology solutions.
 
 <p align="left">
   <strong>Languages:</strong><br>
-  <img src="https://skillicons.dev/icons?i=python,js,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp" />
 </p>
 
 <p align="left">
   <strong>Frontend & 3D Graphics:</strong><br>
-  <img src="https://skillicons.dev/icons?i=react,threejs,html,css" />
+  <img src="https://skillicons.dev/icons?i=react,threejs,tailwind" />
 </p>
 
 <p align="left">
   <strong>Backend & AI/ML:</strong><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=nodejs,tensorflow,firebase" />
 </p>
 
 <p align="left">
   <strong>Creative, Version Control & Other Tools:</strong><br>
-  <img src="https://skillicons.dev/icons?i=blender,figma,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=blender,figma,git,github,docker" />
 </p>
 
 
@@ -80,3 +80,6 @@ A dedicated Engineer, Developer, and Creator of impactful technology solutions.
 
 
 > _"Build something today that your future self will thank you for."_ ✨
+
+
+
