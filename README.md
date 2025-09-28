@@ -56,16 +56,21 @@ A dedicated Engineer, Developer, and Creator of impactful technology solutions.
 ---
 
 ## 📫 Connect With Me
-<p>
-  I welcome collaborations and tech discussions. Feel free to reach out!
+<p align="left">
+  <a href="https://www.linkedin.com/in/ikrishanaa">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://github.com/ikrishanaa">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub" height="30" width="40"/>
+  </a>
+  <a href="https://x.com/ikrishanaa">
+    <img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="X" height="30" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/ikrishanaa/">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" height="30" width="40"/>
+  </a>
 </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ikrishanaa"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikrishanaa | LinkedIn" height="30" width="40" /></a>  
-  <a href="https://github.com/ikrishanaa"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ikrishanaa | GitHub" height="30" width="40" /></a>  
-  <a href="https://x.com/ikrishanaa"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" alt="ikrishanaa | Twitter" height="30" width="40" /></a>  
-  <a href="https://www.instagram.com/ikrishanaa/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikrishanaa | Instagram" height="30" width="40" /></a>
-</p>
 
 ---
 
