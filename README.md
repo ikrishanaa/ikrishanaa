@@ -69,6 +69,9 @@ A dedicated Engineer, Developer, and Creator of impactful technology solutions.
   <a href="https://www.instagram.com/ikrishanaa/">
     <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" height="30" width="40"/>
   </a>
+  <a href="mailto:krishanaindia773@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" height="30" width="40"/>
+  </a>
 </p>
 
 
