@@ -16,22 +16,22 @@ A dedicated Engineer, Developer, and Creator of impactful technology solutions.
 
 <p align="left">
   <strong>Languages:</strong><br>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,kotlin" />
 </p>
 
 <p align="left">
-  <strong>Frontend & 3D Graphics:</strong><br>
-  <img src="https://skillicons.dev/icons?i=react,threejs,tailwind" />
+  <strong>Frontend (API Integration):</strong><br>
+  <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
 <p align="left">
-  <strong>Backend & AI/ML:</strong><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,tensorflow,firebase" />
+  <strong>Backend & APIs:</strong><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,prisma" />
 </p>
 
 <p align="left">
-  <strong>Creative, Version Control & Other Tools:</strong><br>
-  <img src="https://skillicons.dev/icons?i=blender,figma,git,github,docker" />
+  <strong>DevOps & Cloud:</strong><br>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx,git,github,postman" />
 </p>
 
 
@@ -52,6 +52,10 @@ A dedicated Engineer, Developer, and Creator of impactful technology solutions.
 ## 🔧 What I'm Working On
 - ✍️ Solving problems on **LeetCode**, **Codeforces**, and **HackerRank**
 - 🌐 Building responsive applications with **React** and **Python**
+- ⚙️ Building scalable **backend systems** and **REST APIs**  
+- 🐳 Improving Docker-based deployment workflows  
+- 📊 Practicing DSA for backend interviews
+
 
 ---
 
@@ -65,9 +69,6 @@ A dedicated Engineer, Developer, and Creator of impactful technology solutions.
   </a>
   <a href="https://x.com/ikrishanaa">
     <img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="X" height="30" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/ikrishanaa/">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" height="30" width="40"/>
   </a>
   <a href="mailto:krishanaindia773@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Gmail" height="30" width="40"/>
