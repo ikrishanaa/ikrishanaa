@@ -20,3 +20,11 @@ jobs:
           output-path: 'game.gif'
           # write-dataurl-to: 'README.md'   # for dataurl generation.
           strategy: 'random'
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add game.gif
+          git commit -m "chore: daily space shooter update $(date)" || echo "No changes to commit"
+          git push
