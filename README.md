@@ -86,6 +86,10 @@ A dedicated Engineer, Developer, and Creator of impactful technology solutions.
   </picture>
 </p>
 
+<p align="center">
+  <img alt="Space Shooter Game" src="game.gif" />
+</p>
+
 
 
 > _"Build something today that your future self will thank you for."_ ✨
