@@ -1,6 +1,11 @@
 name: Update Space Shooter Game
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'game.gif'
   schedule:
     - cron: '0 0 * * *'  # Daily at midnight UTC
   workflow_dispatch:  # Allow manual trigger
