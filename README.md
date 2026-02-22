@@ -77,7 +77,7 @@ A dedicated Engineer, Developer, and Creator of impactful technology solutions.
 
 
 ---
-
+<!---
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
@@ -85,6 +85,8 @@ A dedicated Engineer, Developer, and Creator of impactful technology solutions.
     <img alt="Breakout Game" src="images/breakout-light.svg" />
   </picture>
 </p>
+
+--->
 
 <p align="center">
   <img alt="Space Shooter Game" src="game.gif" />
