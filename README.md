@@ -12,6 +12,26 @@ A dedicated Engineer, Developer, and Creator of impactful technology solutions.
 </h1>
 
 
+---
+
+
+
+
+<p align="center">
+  <a href="https://github.com/ikrishanaa">
+    <img src="https://img.shields.io/badge/STATUS-Active-10B981?style=for-the-badge&logo=activitypub&logoColor=white" alt="Status: Active" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=ikrishanaa&color=6366F1&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile Views" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ikrishanaa/ikrishanaa/commits/main">
+    <img src="https://img.shields.io/github/last-commit/ikrishanaa/ikrishanaa?color=8B5CF6&style=for-the-badge&logo=git&logoColor=white&label=LAST%20UPDATED" alt="Last Updated" />
+  </a>
+</p>
+
+---
+
+
 ## 💻 Tech Stack & Tools
 
 <p align="left">
